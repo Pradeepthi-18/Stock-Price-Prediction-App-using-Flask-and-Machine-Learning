@@ -1,0 +1,105 @@
+2024-12-23 12:25:29,146 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-23 12:25:29,146 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-23 12:25:29,163 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-23 12:25:31,574 - WARNING -  * Debugger is active!
+2024-12-23 12:25:31,595 - INFO -  * Debugger PIN: 250-138-262
+2024-12-23 12:27:30,122 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-23 12:27:30,122 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-23 12:27:30,138 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-23 12:27:32,554 - WARNING -  * Debugger is active!
+2024-12-23 12:27:32,554 - INFO -  * Debugger PIN: 250-138-262
+2024-12-23 12:28:40,236 - INFO - 127.0.0.1 - - [23/Dec/2024 12:28:40] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-12-23 12:28:40,641 - INFO - 127.0.0.1 - - [23/Dec/2024 12:28:40] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-12-23 12:28:40,663 - INFO - 127.0.0.1 - - [23/Dec/2024 12:28:40] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-12-23 12:28:40,719 - INFO - 127.0.0.1 - - [23/Dec/2024 12:28:40] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-12-23 12:28:40,735 - INFO - 127.0.0.1 - - [23/Dec/2024 12:28:40] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-12-23 12:31:09,378 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-23 12:31:09,378 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-23 12:31:09,401 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-23 12:31:11,792 - WARNING -  * Debugger is active!
+2024-12-23 12:31:11,815 - INFO -  * Debugger PIN: 250-138-262
+2024-12-23 12:32:23,902 - INFO - Trained and saved new model for AMZN.
+2024-12-23 12:32:24,792 - INFO - 127.0.0.1 - - [23/Dec/2024 12:32:24] "POST /predict HTTP/1.1" 200 -
+2024-12-23 12:32:25,036 - INFO - 127.0.0.1 - - [23/Dec/2024 12:32:25] "GET /static/plot_1734937343.9136357.png HTTP/1.1" 200 -
+2024-12-23 12:32:25,036 - INFO - 127.0.0.1 - - [23/Dec/2024 12:32:25] "GET /static/style.css HTTP/1.1" 200 -
+2024-12-23 12:33:54,473 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-23 12:33:54,473 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-23 12:33:54,490 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-23 12:33:56,949 - WARNING -  * Debugger is active!
+2024-12-23 12:33:56,949 - INFO -  * Debugger PIN: 250-138-262
+2024-12-23 12:38:14,893 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-23 12:38:14,893 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-23 12:38:14,893 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-23 12:38:17,207 - WARNING -  * Debugger is active!
+2024-12-23 12:38:17,209 - INFO -  * Debugger PIN: 250-138-262
+2024-12-23 12:43:00,588 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-23 12:43:00,588 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-23 12:43:00,588 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-23 12:43:02,953 - WARNING -  * Debugger is active!
+2024-12-23 12:43:02,954 - INFO -  * Debugger PIN: 250-138-262
+2024-12-23 12:50:18,368 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-23 12:50:18,368 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-23 12:50:18,391 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-23 12:50:21,601 - WARNING -  * Debugger is active!
+2024-12-23 12:50:21,601 - INFO -  * Debugger PIN: 250-138-262
+2024-12-23 20:39:11,155 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-23 20:39:11,155 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-23 20:39:11,197 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-23 20:39:13,768 - WARNING -  * Debugger is active!
+2024-12-23 20:39:13,786 - INFO -  * Debugger PIN: 250-138-262
+2024-12-23 20:47:16,690 - INFO -  * Detected change in 'C:\\Users\\prade\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\joblib\\__init__.py', reloading
+2024-12-23 20:47:17,081 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-23 20:47:20,331 - WARNING -  * Debugger is active!
+2024-12-23 20:47:20,331 - INFO -  * Debugger PIN: 250-138-262
+2024-12-23 20:47:27,722 - INFO -  * Detected change in 'C:\\Users\\prade\\OneDrive\\Documents\\ML Project\\PROJECT\\app.py', reloading
+2024-12-23 20:47:27,722 - INFO -  * Detected change in 'C:\\Users\\prade\\OneDrive\\Documents\\ML Project\\PROJECT\\app1.py', reloading
+2024-12-23 20:47:28,748 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-23 20:47:59,463 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-23 20:47:59,464 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-23 20:47:59,468 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-23 20:48:01,848 - WARNING -  * Debugger is active!
+2024-12-23 20:48:01,848 - INFO -  * Debugger PIN: 250-138-262
+2024-12-24 21:55:27,724 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-24 21:55:27,725 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-24 21:55:27,743 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-24 21:55:30,453 - WARNING -  * Debugger is active!
+2024-12-24 21:55:30,471 - INFO -  * Debugger PIN: 250-138-262
+2024-12-27 10:07:22,204 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-27 10:07:22,205 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-27 10:07:22,222 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-27 10:07:24,923 - WARNING -  * Debugger is active!
+2024-12-27 10:07:24,948 - INFO -  * Debugger PIN: 250-138-262
+2024-12-27 10:08:21,776 - INFO - 127.0.0.1 - - [27/Dec/2024 10:08:21] "GET / HTTP/1.1" 200 -
+2024-12-27 10:08:21,992 - INFO - 127.0.0.1 - - [27/Dec/2024 10:08:21] "GET /static/style.css HTTP/1.1" 200 -
+2024-12-27 10:08:26,477 - INFO - 127.0.0.1 - - [27/Dec/2024 10:08:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-27 10:08:28,538 - INFO - Loaded model for prediction.
+2024-12-27 10:08:28,570 - INFO -  * Detected change in 'C:\\Users\\prade\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\sklearn\\base.py', reloading
+2024-12-27 10:08:28,573 - ERROR - Error in prediction for AMZN: cannot access local variable 'X_test' where it is not associated with a value
+2024-12-27 10:08:28,597 - INFO - 127.0.0.1 - - [27/Dec/2024 10:08:28] "POST /predict HTTP/1.1" 200 -
+2024-12-27 10:08:28,621 - INFO - 127.0.0.1 - - [27/Dec/2024 10:08:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-27 10:08:29,799 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-27 10:08:33,252 - WARNING -  * Debugger is active!
+2024-12-27 10:08:33,267 - INFO -  * Debugger PIN: 250-138-262
+2024-12-27 10:08:33,291 - INFO - 127.0.0.1 - - [27/Dec/2024 10:08:33] "GET / HTTP/1.1" 200 -
+2024-12-27 10:08:33,353 - INFO - 127.0.0.1 - - [27/Dec/2024 10:08:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-12-27 10:09:58,387 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-27 10:09:58,387 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-27 10:09:58,387 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-27 10:10:00,839 - WARNING -  * Debugger is active!
+2024-12-27 10:10:00,839 - INFO -  * Debugger PIN: 250-138-262
+2024-12-27 10:23:53,512 - INFO -  * Detected change in 'C:\\Users\\prade\\OneDrive\\Documents\\ML Project\\PROJECT\\app1.py', reloading
+2024-12-27 10:23:54,605 - INFO -  * Restarting with watchdog (windowsapi)
+2024-12-27 10:23:58,232 - WARNING -  * Debugger is active!
+2024-12-27 10:23:58,236 - INFO -  * Debugger PIN: 250-138-262

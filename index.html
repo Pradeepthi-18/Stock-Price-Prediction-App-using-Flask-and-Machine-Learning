@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="static/style.css">
+    <title>Stock Price Prediction</title>
+</head>
+<body>
+    <div class="container">
+        <h1>📈 Stock Price Prediction Dashboard</h1>
+        <img src="https://source.unsplash.com/800x400/?stocks,finance" alt="Stock Market" class="header-image">
+        <form action="/predict" method="POST">
+            <label for="symbol">Enter Stock Symbol (e.g., AAPL, TSLA):</label>
+            <input type="text" id="symbol" name="symbol" placeholder="Enter Stock Symbol" required>
+            <button type="submit">Predict</button>
+        </form>
+    </div>
+</body>
+</html>
